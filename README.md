@@ -1,0 +1,1 @@
+# skolkod-3-nov-2025-media-queries
